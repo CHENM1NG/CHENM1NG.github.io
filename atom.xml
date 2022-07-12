@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://CHENM1NG.github.io</id>
+    <title>Hello</title>
+    <updated>2022-07-12T06:26:01.366Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://CHENM1NG.github.io"/>
+    <link rel="self" href="https://CHENM1NG.github.io/atom.xml"/>
+    <subtitle>My Personal Website.</subtitle>
+    <logo>https://CHENM1NG.github.io/images/avatar.png</logo>
+    <icon>https://CHENM1NG.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Hello</rights>
+</feed>
